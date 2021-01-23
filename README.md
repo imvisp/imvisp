@@ -1,6 +1,6 @@
-### Here is i am currently working on 👋
+![alt text]
 
-**About me**
+*About me:*
 
 - 🔭 I’m currently working on ...i am a student
 - 🌱 I’m currently learning ...python
