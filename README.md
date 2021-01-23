@@ -1,8 +1,6 @@
 ### Here is i am currently working on 👋
 
-
-
-Here are some ideas to get you started:
+**About me**
 
 - 🔭 I’m currently working on ...i am a student
 - 🌱 I’m currently learning ...python
