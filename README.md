@@ -10,9 +10,9 @@
    <a href="http://twitter.com/imvisp">
     <img src="https://img.shields.io/twitter/follow/imvisp?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-   <a href="http://instagram.com/imvisp">
-    <img src="https://img.shields.io/instagram/follow/imvishp?label=Twitter&logo=instagram&style=for-the-badge" />
+   <a href="http://instagram.com/imvishp">
+    <img src="https://img.shields.io/instagram/follow/imvishp?label=instagram&logo=instagram&style=for-the-badge" />
   </a>
    <a href="http://linkedin.com/imvisp">
-    <img src="https://img.shields.io/linkedin/follow/imvisp?label=Twitter&logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/linkedin/follow/imvisp?label=linkedin&logo=linkedin&style=for-the-badge" />
   </a>
