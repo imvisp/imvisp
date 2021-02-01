@@ -16,3 +16,4 @@
    <a href="https://www.linkedin.com/in/vishal-patadia-698781200">
     <img src="https://img.shields.io/linkedin/follow/imvisp?label=linkedin&logo=linkedin&style=for-the-badge" />
   </a>
+</p>
