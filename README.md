@@ -7,12 +7,12 @@
 - 🤔 I’m looking for help with ...python and open source
 - 💬 Ask me about ...open source and python
 <p align="center">
-   <a href="http://twitter.com/imvisp">
+   <a href="https://twitter.com/imvishp">
     <img src="https://img.shields.io/twitter/follow/imvisp?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-   <a href="http://instagram.com/imvishp">
+   <a href="https://www.instagram.com/imvishp">
     <img src="https://img.shields.io/instagram/follow/imvishp?label=instagram&logo=instagram&style=for-the-badge" />
   </a>
-   <a href="http://linkedin.com/imvisp">
+   <a href="https://www.linkedin.com/in/vishal-patadia-698781200">
     <img src="https://img.shields.io/linkedin/follow/imvisp?label=linkedin&logo=linkedin&style=for-the-badge" />
   </a>
