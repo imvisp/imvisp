@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...python and open source
 - 💬 Ask me about ...open source and python
 <p align="center">
-   <a href="https://twitter.com/imvishp">
+   <a href="https://twitter.com/imvisp">
     <img src="https://img.shields.io/twitter/follow/imvisp?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
    <a href="https://www.instagram.com/imvishp">
