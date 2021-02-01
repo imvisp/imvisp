@@ -6,6 +6,9 @@
 - 👯 I’m looking to collaborate on ...python stuff, open source
 - 🤔 I’m looking for help with ...python and open source
 - 💬 Ask me about ...open source and python
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=imvisp&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <p align="center">
    <a href="https://twitter.com/imvishp">
