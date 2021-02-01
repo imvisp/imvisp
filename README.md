@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/twitter/follow/imvisp?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
    <a href="https://www.instagram.com/imvishp">
-    <img src="https://img.shields.io/instagram/follow/imvishp?label=instagram&logo=instagram&style=for-the-badge" />
+    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white />
   </a>
    <a href="https://www.linkedin.com/in/vishal-patadia-698781200">
-    <img src="https://img.shields.io/linkedin/follow/imvisp?label=linkedin&logo=linkedin&style=for-the-badge" />
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
   </a>
 </p>
