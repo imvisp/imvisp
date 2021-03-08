@@ -5,7 +5,7 @@
 <h1>About me:</h1>
 
 - 🔭 I’m currently working on ...exploring new things
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...pygame module
 - 👯 I’m looking to collaborate on ...python stuff, open source
 - 🤔 I’m looking for help with ...python and open source
 - 💬 Ask me about ...open source and python
