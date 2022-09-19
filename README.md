@@ -4,9 +4,9 @@
 
 <h1>About me:</h1>
 
-- 🔭 I’m currently working on ...exploring new things
-- 🌱 I’m currently learning ...pygame module
-- 👯 I’m looking to collaborate on ...python stuff, open source
+- 🔭 I’m currently exploring verious libraries og Python.
+- 🌱 I’m currently learning matpltlib module
+- 👯 I’m looking to collaborate on Python stuff, Open source,
 - 🤔 I’m looking for help with ...python and open source
 - 💬 Ask me about ...open source and python
 <p align='center'>
