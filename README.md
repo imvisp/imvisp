@@ -4,7 +4,7 @@
 
 <h1>About me:</h1>
 
-- 🔭 I’m currently exploring verious libraries og Python.
+- 🔭 I’m currently exploring verious libraries of Python.
 - 🌱 I’m currently learning matpltlib module
 - 👯 I’m looking to collaborate on Python stuff, Open source,
 - 🤔 I’m looking for help with ...python and open source
