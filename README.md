@@ -1,18 +1,17 @@
 <h1 align='center'>
-  Hi folxs 👋 I'm vishal 👨‍💻
+  Hey folxs, Vishal this side👋 
 </h1>
 
 <h1>About me:</h1>
 
-- 🔭 I’m currently exploring data science.
+- 🔭 I’m currently exploring Solana, playing with data.
 - 🌱 I’m currently learning Data Visualization.
-- 👯 I’m looking to collaborate on Python stuff, Open-source.
-- 🤔 I’m looking for help with ...Python and Open-source
-- 💬 Ask me about ...Open-source and Python
+- 👯 I’m looking to collaborate on Superteam bounty, Python, Open-source.
+- 💬 Ask me about Open-source, Python, little about web3.
 
-<h2>My Blogs:</h2>
-Coming soon... 
-Meanwhile you can follow me on hashnode https://hashnode.com/@Imvishp
+<h2>Recent Bounty:</h2>
+   <a href="https://twitter.com/imvishp/status/1683866751195549696?s=20">Parcl Bounty</a>
+
 
 <h2>Connect with me:</h2>
 <p align="left">
